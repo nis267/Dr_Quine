@@ -28,7 +28,7 @@ void multiple_free(char *first, ...)
 
 int main(void)
 {
-    int i = 100;
+    int i = 5;
     int fd;
     char *file_name;
     char *command;
