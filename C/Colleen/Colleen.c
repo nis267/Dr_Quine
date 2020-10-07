@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /*
-    I'am a another comment
+    I'am another comment
 */
 
 void print_content()

@@ -40,6 +40,6 @@
 #define START int main() {CODE();}
 
 /*
-    I'm a comment
+    This is a comment
 */
 START
